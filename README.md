@@ -26,7 +26,7 @@
 最初に人間対戦か自動応答のどちらのサーバーを選ぶかを設定します。<br>
 
 言語：Java<br>
-GUI：SWING<br>
+GUI：Swing<br>
 <br>
 
 CellButton.java     ：各セルのボタンGUIを実装したクラス<br>
