@@ -4,18 +4,21 @@
 人との対戦か、自動で打ち返してくるシステムとの対戦かを選ぶことができます。<br>
 対戦終了後、プレイヤーそれぞれのコマの数と勝敗結果がGUIに表示されます。<br>
 <br>
-https://user-images.githubusercontent.com/64346215/151688656-3f0c4a0e-7761-43ba-acae-3e1a1e0f0ae7.mp4
+![Othello_with_auto_cropped](https://user-images.githubusercontent.com/64346215/151690341-c9ad3236-87c3-4258-881b-17fe757ce02d.gif)
 
 <br><br>
 ## 【実行方法】
 1. Javaが実行できる環境にプログラムを設置する<br>
 2. ServerConfig.java を実行<br>
-3. 自動応答か否かを選択
-<img width="132" alt="ServerConfigGUI" src="https://user-images.githubusercontent.com/64346215/151689460-2c18c141-de72-4801-a06f-5c108762a565.PNG">
+3. 自動応答か否かを選択<br>
 4. ClientGUI.java を実行<br>
 5. ゲーム開始<br>
 6. ゲーム終了後 結果が表示される<br>
-<img width="390" alt="勝ち画面" src="https://user-images.githubusercontent.com/64346215/151689479-e6cdbc62-e49c-4f75-833b-dce2418cdc4e.PNG">
+<br>
+サーバー機能選択画面<br>
+<img width="250" alt="ServerConfigGUI" src="https://user-images.githubusercontent.com/64346215/151689460-2c18c141-de72-4801-a06f-5c108762a565.PNG">
+ゲーム終了時の画面<br>
+<img width="460" alt="勝ち画面" src="https://user-images.githubusercontent.com/64346215/151689479-e6cdbc62-e49c-4f75-833b-dce2418cdc4e.PNG">
 <br><br>
 
 ## 【詳細】
